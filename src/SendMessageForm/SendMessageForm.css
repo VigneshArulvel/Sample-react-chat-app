@@ -1,0 +1,8 @@
+.FormArea{
+    bottom: 0%;
+    border-bottom-color: black;
+    border: solid;
+    height: 100px;
+    width: 100%;
+    position: fixed;
+}

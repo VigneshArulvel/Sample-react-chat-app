@@ -1,0 +1,29 @@
+.message {
+    background-color: blue;
+    color: white;
+    border-radius: 5px;
+    display: inline-block;
+    size: 20px;
+    height: 30px;
+    -webkit-text-stroke: medium;
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    margin: 5px 0;
+}
+
+.MessageList{
+    position: fixed;
+    overflow-y: scroll;
+    height: 74%;
+    width: 100%;
+}
+
+#joinRoom{    
+  text-align: center;
+}
+  /* .MessageList > * {
+    display: block;
+    margin: 5px 0;
+} */
+
